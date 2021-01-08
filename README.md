@@ -47,3 +47,8 @@ retorna um HTTPSTATUS 201.
 
 url utilizada para buscar os dados de uma entidade utilizando como parametro o Identificador da Entidade.
 retorna um HTTPSTATUS 200.
+
+## `filme/genero?name={genero}`
+
+url utilizada para filtrar os filmes por genero.
+retorna um HTTPSTATUS 200.
